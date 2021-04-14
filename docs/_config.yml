@@ -48,7 +48,7 @@ linkedin_username: dasom-lee
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Dasom Lee. <mark>Happy</mark> happy
+  Hi, my name is Dasom Lee, it's like  <mark>D_awesome</mark>!
 
 
 content:
@@ -57,12 +57,12 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: github.com/idasomm
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  idasomm/DACWsurvival
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/idasomm/DACWsurviva
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -96,21 +96,28 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: North Carolina State University
+        caption: Expected graduation May 2022
+        sub_title: PhD in Statistics
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Haha Ph.D candidate! Want to graduate!!!!!
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Korea University
+        caption: Feb. 2017
+        sub_title: MS in Statistics
 
+      - layout: left
+        title: Korea University
+        caption: Feb. 2015
+        sub_title: BS in Statistics
+          
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      - Tennis
       - Gaming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
