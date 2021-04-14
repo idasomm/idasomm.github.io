@@ -68,7 +68,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
           
         description: | # this will include new lines to allow paragraphs
-        HAHAHA
+          hahaha
         
         
   - title: Experience # Title for the section
