@@ -68,19 +68,31 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
           
         description: | # this will include new lines to allow paragraphs
-          Biostatistics Fellow
-
+        HAHAHA
+        
+        
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: United Therapeutics Corporation
+        title: United Therapeutics
         #link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Biostatistics Fellow
         caption: May 2019 - May 2020, Aug 2020 - present
         description: | # this will include new lines to allow paragraphs
           Biostatistics Fellow
+
+      - layout: left
+        title: Genentech
+        sub_title: Biostatistics Intern
+        caption: May 2020 - Aug 2020
+        description: | # this will include new lines to allow paragraphs
+          I love San Francisco (tho haven't been there lol :-< )
+          
+          
+          
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
