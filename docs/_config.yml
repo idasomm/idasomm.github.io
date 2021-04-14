@@ -97,15 +97,14 @@ content:
     content:
       - layout: top-middle
         title: North Carolina State University
-        caption: Expected graduation May 2022
-        sub_title: PhD in Statistics
-        description: | # this will include new lines to allow paragraphs
-          Haha Ph.D candidate! Want to graduate!!!!!
+        caption: **PhD in Statistics** (Expected graduation May 2022)
+        #sub_title: 
+        #description: | # this will include new lines to allow paragraphs
+        #  Haha Ph.D candidate! Want to graduate!!!!!
 
       - layout: top-middle
         title: Korea University
-        caption: Feb. 2017
-        sub_title: MS in Statistics
+        sub_title: **MS in Statistics** (Feb. 2017)
 
       - layout: left
         title: Korea University
@@ -126,7 +125,7 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+# footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
