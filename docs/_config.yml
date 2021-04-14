@@ -105,7 +105,8 @@ content:
 
       - layout: top-middle
         title: Korea University
-        sub_title: **MS in Statistics** (Feb. 2017)
+        bold: MS in Statistics
+        sub_title: MS in Statistics (Feb. 2017)
 
       - layout: left
         title: Korea University
