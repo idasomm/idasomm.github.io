@@ -97,7 +97,8 @@ content:
     content:
       - layout: top-middle
         title: North Carolina State University
-        caption: **PhD in Statistics** (Expected graduation May 2022)
+        bold: PhD in Statistics
+        caption: PhD in Statistics (Expected graduation May 2022)
         #sub_title: 
         #description: | # this will include new lines to allow paragraphs
         #  Haha Ph.D candidate! Want to graduate!!!!!
