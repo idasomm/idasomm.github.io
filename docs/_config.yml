@@ -46,7 +46,7 @@ linkedin_username: dasom-lee
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jepg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Dasom Lee. <mark>Happy</mark> happy
 
