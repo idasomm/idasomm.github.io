@@ -52,10 +52,10 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Projects # Title for the section
+  - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Super awesome project
         link: github.com/idasomm
         # link_text: Project Website
@@ -69,6 +69,10 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           hahaha
+          
+       - title: survival projects
+       
+       - title: Bayesian project
         
         
   - title: Experience # Title for the section
