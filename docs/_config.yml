@@ -59,19 +59,19 @@ content:
         title: Super awesome project
         link: github.com/idasomm
         # link_text: Project Website
-        additional_links:
-          - title:  idasomm/DACWsurvival
-            icon: fab fa-github
-            url: github.com/idasomm/DACWsurviva
+        #additional_links:
+        #  - title:  idasomm/DACWsurvival
+        #    icon: fab fa-github
+        #    url: github.com/idasomm/DACWsurviva
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)          
-        description: | # this will include new lines to allow paragraphs
+      description: | # this will include new lines to allow paragraphs
           hahaha
           
-       - layout: left
-         title: survival projects
-         description: | This is a survival project
+     - layout: left
+       title: survival projects
+       description: | This is a survival project
        
                
         
