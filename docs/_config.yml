@@ -69,8 +69,8 @@ content:
       description: | # this will include new lines to allow paragraphs
           hahaha
           
-      - layout: left
-        title: Survival projects
+      #- layout: left
+      #  title: Survival projects
                
         
   - title: Experience # Title for the section
