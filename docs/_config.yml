@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Dasom Lee
-title: Statistics PhD candidate in North Carolina State University
+title: Statistics PhD candidate at North Carolina State University
 email: idasomm@gmail.com
 #website: www.github.com/sproogen/resume-theme
 
@@ -48,7 +48,7 @@ linkedin_username: dasom-lee
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Dasom Lee, it's like  <mark>D_awesome</mark>!
+  Hi, my name is Dasom Lee, it's like  <mark>D_awesome</mark>! I am a Statistics PhD candidate at North Carolina State University.
 
 
 content:
